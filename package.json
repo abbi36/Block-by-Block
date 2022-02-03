@@ -1,0 +1,17 @@
+{
+  "name": "block-by-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbi E",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "input": "^1.0.1",
+    "string-sanitizer": "^2.0.2"
+  }
+}
